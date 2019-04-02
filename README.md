@@ -9,5 +9,5 @@
 - O que tem dificuldade ainda?
   - Na junção do "self.",e um pouco sobre class
 - Quanto tempo levou pra fazer a atividade?
-  - Em torno de 30 minutos a 40 minutos, sempre dava alguns bug ou dava problema em variavel.
+  - Em torno de 1h, sempre dava alguns bug ou dava problema em variavel.
   
