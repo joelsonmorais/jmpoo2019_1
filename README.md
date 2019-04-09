@@ -9,5 +9,17 @@
 - O que tem dificuldade ainda?
   - Na junção do "self.",e um pouco sobre class
 - Quanto tempo levou pra fazer a atividade?
-  - Em torno de 1h, sempre dava alguns bug ou dava problema em variavel.
+  - Em torno de 1h e meia, sempre dava alguns bug ou dava problema em variavel.
+  
+  # 02 - Calculadora
+- O que você fez?
+  - Consegui fazer todo, mas observando a aula e tentando fazer algumas partes sozinho.
+- Com quem e como você fez?
+  - Acompanhando a video aula.
+- O que aprendeu e sabe fazer?
+  - Aprendi a desenvolver um pouco mais a parte do "INIT" em python.
+- O que tem dificuldade ainda?
+  - As vezes eu vejo algumas partes e depois descubro qual é problema, principalmente em questão logica. Mas, eu percebo que eu estou tendo uma melhora em relação a isso.
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 2 Horas.
   
