@@ -25,3 +25,15 @@
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 2 Horas.
   
+  # 03 - Pet
+- O que você fez?
+  - Consegui fazer, mas, tive alguns problemas com a identação no inicio, e sobre alguns metodos, como o void e boolean.
+- Com quem e como você fez?
+  - Acompanhando o video.
+- O que aprendeu e sabe fazer?
+  - Estou aprendendo a usar um pouco mais os métodos e entendendo o significado de cada um, e onde e como eu devo usa-lós.
+- O que tem dificuldade ainda?
+  - Sim, de inicio estou tendo dificuldade de usa a logica para densenvolver os codigos, principalmente com alguns metodos.
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 4 à 5 horas.
+  
