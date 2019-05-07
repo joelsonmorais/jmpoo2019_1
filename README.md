@@ -37,3 +37,15 @@
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 4 à 5 horas.
   
+   # 04 - Cinema
+- O que você fez?
+  - Consegui fazer a atividade com base em toda a video da aula, e com problema pra entender alguns funções, de inicio, arrays.
+- Com quem e como você fez?
+  - Sozinho, e acompanhando a video aula.
+- O que aprendeu e sabe fazer?
+  - Aprendi um pouco sobre a funcionabilidade do arrays, mas, não é algo concreto, ainda tenho problemas com alguns metodos.
+- O que tem dificuldade ainda?
+  - Sim, ainda sinto dificuldade com logica e sintaxe, não tanto como antes. Acho que estou me aprendendo mais vendo dando uma revisão nos problemas que estou tendo e tirando algumas duvidas sobre a funcionabildiade de alguns metodos tanto na video aula quando na internet.
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 6 horas.
+  
