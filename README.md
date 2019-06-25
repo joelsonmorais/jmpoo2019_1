@@ -85,3 +85,15 @@
   - Sim, sinto dificuldade em fazer sozinho, não consegui raciocinar muita a questão da implementação do mapa.
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 4 a 5 horas
+  
+  # 07 - Twitter
+- O que você fez?
+  - Fiz todo, mas com base nas explicações dadas em UML, e ainda tive um pouco de dificuldade na compreessão
+- Com quem e como você fez?
+  - Sozinho, mas com o acompanhamento da video aula
+- O que aprendeu e sabe fazer?
+  - compreendi um pouco a utilização do mapa, e no decorrer das explicações tanto da aula quando do video, fiquei um pouco perdido na hora de desenvolver
+- O que tem dificuldade ainda?
+  - Raciocinar a parte logica, não consigo aplicar muito bem, nem por a interação dele com o condigo de uma maneira clara
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 3 horas.
