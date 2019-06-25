@@ -25,6 +25,18 @@
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 2 Horas.
   
+  # 02-V - Calculadora - Java
+- O que você fez?
+  - Todo o codigo
+- Com quem e como você fez?
+  - Sozinho
+- O que aprendeu e sabe fazer?
+  - Um pouco da sintaxe e a estrutura, mas eu ja tinha um pouco a base de java, acho que isso me ajudou
+- O que tem dificuldade ainda?
+  - Com a parte logica ainda
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 3 horas.
+  
   # 03 - Pet
 - O que você fez?
   - Consegui fazer, mas, tive alguns problemas com a identação no inicio, e sobre alguns metodos, como o void e boolean.
