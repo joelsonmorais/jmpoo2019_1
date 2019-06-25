@@ -49,3 +49,15 @@
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 6 horas.
   
+ # 05 - Topic
+- O que você fez?
+  - Tudo o que foi pedido
+- Com quem e como você fez?
+  - Foi feito com a ajuda a video aula
+- O que aprendeu e sabe fazer?
+  - Um pouco da aplicação boolean, ainda não consegui entender algumas funções.
+- O que tem dificuldade ainda?
+  - Raciocinar a parte logica, as vezes não consigo compreender muito bem e da um bug
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 3 horas.
+  
