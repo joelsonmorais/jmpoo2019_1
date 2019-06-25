@@ -79,7 +79,8 @@
 - Com quem e como você fez?
   - Acompanhando a video aula e um pouco da apostila
 - O que aprendeu e sabe fazer?
-  - Ainda não consegui aplicar muita do mapa, e sem auxilio, acho que teria um pouco mais de dificuldade.
+  - Ainda não consegui aplicar muita coisa do mapa, e sem auxilio, acho que teria um pouco mais de dificuldade.
+  Mas eu ja consigo entender um pouco pra que serve e como é feita sua aplicação.
 - O que tem dificuldade ainda?
   - Sim, sinto dificuldade em fazer sozinho, não conseguir raciocinar muita a questão da implementação do mapa.
 - Quanto tempo levou pra fazer a atividade?
