@@ -97,3 +97,15 @@
   - Raciocinar a parte logica, não consigo aplicar muito bem, nem por a interação dele com o condigo de uma maneira clara
 - Quanto tempo levou pra fazer a atividade?
   - Em torno de 3 horas.
+  
+    # 08 - Agencia
+- O que você fez?
+  - Fiz tudo, mas com o auxilio do video e da apostila do Caelum(Java)
+- Com quem e como você fez?
+  - Sozinho, mas com o acompanhamento da video aula + Apostila Caelum(Java)
+- O que aprendeu e sabe fazer?
+  - Percebi que eu entendi melhor a questão de Map e TreeMap, fiquei meio perdido em algumas coisas no trabalho, mas entendi um pouco mais a aplicação.
+- O que tem dificuldade ainda?
+  - Acho que so a aplicação do Map, mas eu consegui entender um pouco mais revendo alguns video das aulas passadas.
+- Quanto tempo levou pra fazer a atividade?
+  - Em torno de 4 horas.
